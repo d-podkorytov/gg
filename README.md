@@ -19,12 +19,11 @@ For Windows it may be C:/Windows or C:/Windows/System32 or something else as you
 
 # Content of Linux g.sh script for call it:
 
-go build | gg
-go build
+( go build | gg ) || go build
 
 # Content of Windows g.cmd script for call it:
 
-go build | gg
+go build | gg.exe
 go build
 
 
