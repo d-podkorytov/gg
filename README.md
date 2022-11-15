@@ -23,7 +23,7 @@ For Windows it may be C:/Windows or C:/Windows/System32 or something else as you
 
 # Content of Windows g.cmd script for call it:
 
-go build | gg.exe \n
+go build | gg.exe /n
 go build
 
 
