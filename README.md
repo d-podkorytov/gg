@@ -8,7 +8,7 @@ So, building Golang examples from many handy works becomes easier. 
 # Compile it:
 go build
 
-# Installation and unsing it
+# Installation and using it
 
 1)Just copy executable binary gg and g.cmd or g.sh to some directory wich is declared in Path variable of operating system.
 
