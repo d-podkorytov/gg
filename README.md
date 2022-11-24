@@ -1,4 +1,4 @@
-## GO BUILD HELPER
+## Golang Build Helper
 
 Let me introduce the Golang build helper.
 It is true that trivial Goland demo examples have  valid files for describing extern packages. In such cases 'go build' command we see lines with advisies to fetch these packages by 'go get package_name' command.
